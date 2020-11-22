@@ -1,2 +1,0 @@
-te=input()
-print(te)
